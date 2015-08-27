@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Louis Vuitton</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-00</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Ben&amp;David</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>David&amp;Ben</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sam&amp;David</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>David&amp;Sam</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>L&apos;éclaireur</string>
+		<key>Speaker</key>
+		<string>Brian Moakley</string>
+		<key>Room</key>
+		<string>The Hill</string>
+		<key>Time</key>
+		<string>Feb 6, 11:30</string>
+		<key>Background</key>
+		<string>Inspiration-04</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Atelson</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-05</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Prada</string>
+		<key>Speaker</key>
+		<string>Richard Turton</string>
+		<key>Room</key>
+		<string>Metropolitan Center</string>
+		<key>Time</key>
+		<string>Feb 6, 11:30</string>
+		<key>Background</key>
+		<string>Inspiration-06</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>All Saints</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-07</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Montaigne Market</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-08</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Mere Nature</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Tutorial-09</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Salvatore Ferragamo</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-10</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Abercrombie&amp;Fitch</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-11</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Weston</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-12</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Versace</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-13</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>James Perse</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-14</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sandro</string>
+		<key>Speaker</key>
+		<string></string>
+		<key>Room</key>
+		<string></string>
+		<key>Time</key>
+		<string></string>
+		<key>Background</key>
+		<string>Inspiration-15</string>
+	</dict>
+</array>
+</plist>

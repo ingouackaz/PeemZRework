@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Fendi</string>
+		<key>Location</key>
+		<string>16 Avenue Montaigne, Paris</string>
+		<key>Type</key>
+		<string>Luxe féminin</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>8.9</string>
+		<key>Background</key>
+		<string>Inspiration-01</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Colette</string>
+		<key>Location</key>
+		<string>213 Rue Saint-Honoré, Paris</string>
+		<key>Type</key>
+		<string>Concept Store</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>9.7</string>
+		<key>Background</key>
+		<string>Inspiration-02</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Piperlime</string>
+		<key>Location</key>
+		<string>121 Wooster St # 1, New York</string>
+		<key>Type</key>
+		<string>Fashion Style</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>8.5</string>
+		<key>Background</key>
+		<string>Inspiration-03</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Atelson</string>
+		<key>Location</key>
+		<string>1204, Rue Neuve-du-Molard 8, Genêve</string>
+		<key>Type</key>
+		<string>Costumes Homme</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>8.1</string>
+		<key>Background</key>
+		<string>Inspiration-05</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Prada</string>
+		<key>Location</key>
+		<string>7 Rue de Grenelle, Paris</string>
+		<key>Type</key>
+		<string>Luxe</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>9.2</string>
+		<key>Background</key>
+		<string>Inspiration-06</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>All Saints</string>
+		<key>Location</key>
+		<string>59 Long Acre, Coven Garden, London</string>
+		<key>Type</key>
+		<string>Fashion</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>8.8</string>
+		<key>Background</key>
+		<string>Inspiration-07</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Montaigne Market</string>
+		<key>Location</key>
+		<string>57 Avenue Montaigne, Paris</string>
+		<key>Type</key>
+		<string>Multi marques de Luxe</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>9.0</string>
+		<key>Background</key>
+		<string>Inspiration-08</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Bonpoint</string>
+		<key>Location</key>
+		<string>50 Rue Étienne Marcel</string>
+		<key>Type</key>
+		<string>Enfant Luxe</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>8.3</string>
+		<key>Background</key>
+		<string>Inspiration-09</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Salvatore Ferragamo</string>
+		<key>Location</key>
+		<string>655 5th Ave, New York</string>
+		<key>Type</key>
+		<string>Luxe</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>9.2</string>
+		<key>Background</key>
+		<string>Inspiration-10</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Abercrombie</string>
+		<key>Location</key>
+		<string>19501 Biscayne Blvd, Aventura Mall, Miami</string>
+		<key>Type</key>
+		<string>Young Fashion </string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>8.4</string>
+		<key>Background</key>
+		<string>Inspiration-11</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Weston</string>
+		<key>Location</key>
+		<string>49 Rue de Rennes, Paris</string>
+		<key>Type</key>
+		<string>Bottier Luxe</string>
+		<key>Price</key>
+		<string>$$$$$</string>
+		<key>Rating</key>
+		<string>8.8</string>
+		<key>Background</key>
+		<string>Inspiration-12</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Versace</string>
+		<key>Location</key>
+		<string>Via Monte Napoleone, 11, Milano</string>
+		<key>Type</key>
+		<string>Luxe Italien</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>8.6</string>
+		<key>Background</key>
+		<string>Inspiration-13</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>James Perse</string>
+		<key>Location</key>
+		<string>8500 Beverly Boulevard, Bloomindale&apos;s, LA</string>
+		<key>Type</key>
+		<string>Californian Chill</string>
+		<key>Price</key>
+		<string>$$$</string>
+		<key>Rating</key>
+		<string>9.3</string>
+		<key>Background</key>
+		<string>Inspiration-14</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sandro</string>
+		<key>Location</key>
+		<string>17 Rue Soufflot, Paris</string>
+		<key>Type</key>
+		<string>Arnaque de Luxe</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>7.5</string>
+		<key>Background</key>
+		<string>Inspiration-15</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Celine</string>
+		<key>Location</key>
+		<string>12 Rue de Mogador, Paris</string>
+		<key>Type</key>
+		<string>Luxe Féminin</string>
+		<key>Price</key>
+		<string>$$$$</string>
+		<key>Rating</key>
+		<string>8.5</string>
+		<key>Background</key>
+		<string>Inspiration-16</string>
+	</dict>
+</array>
+</plist>

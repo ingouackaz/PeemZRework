@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" restorationIdentifier="Settings" id="iN0-l3-epB" customClass="SettingsView" customModule="ApplicationPeemz" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zJO-pd-9Fq">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hello World" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BZY-IE-7I5">
+                    <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                    <color key="backgroundColor" red="0.28867396379999999" green="0.47659621079999998" blue="0.84112610480000005" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="BZY-IE-7I5" secondAttribute="bottom" constant="498" id="4vW-JJ-o1W"/>
+                <constraint firstItem="zJO-pd-9Fq" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Hpo-8D-eVZ"/>
+                <constraint firstAttribute="trailing" secondItem="zJO-pd-9Fq" secondAttribute="trailing" id="I4p-JS-nUM"/>
+                <constraint firstAttribute="bottom" secondItem="zJO-pd-9Fq" secondAttribute="bottom" constant="576" id="TlO-8y-4WX"/>
+                <constraint firstAttribute="trailing" secondItem="BZY-IE-7I5" secondAttribute="trailing" constant="104" id="UKM-VI-3b3"/>
+                <constraint firstItem="BZY-IE-7I5" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="81" id="fch-Pp-hri"/>
+                <constraint firstItem="BZY-IE-7I5" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="105" id="p4X-o9-NAZ"/>
+                <constraint firstItem="zJO-pd-9Fq" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="veQ-tO-b0R"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="zJO-pd-9Fq"/>
+                    <exclude reference="BZY-IE-7I5"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="4vW-JJ-o1W"/>
+                    <exclude reference="UKM-VI-3b3"/>
+                    <exclude reference="fch-Pp-hri"/>
+                    <exclude reference="p4X-o9-NAZ"/>
+                    <exclude reference="Hpo-8D-eVZ"/>
+                    <exclude reference="I4p-JS-nUM"/>
+                    <exclude reference="TlO-8y-4WX"/>
+                    <exclude reference="veQ-tO-b0R"/>
+                </mask>
+            </variation>
+            <variation key="widthClass=compact">
+                <mask key="subviews">
+                    <include reference="zJO-pd-9Fq"/>
+                    <include reference="BZY-IE-7I5"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="4vW-JJ-o1W"/>
+                    <include reference="UKM-VI-3b3"/>
+                    <include reference="fch-Pp-hri"/>
+                    <include reference="p4X-o9-NAZ"/>
+                    <include reference="Hpo-8D-eVZ"/>
+                    <include reference="I4p-JS-nUM"/>
+                    <include reference="TlO-8y-4WX"/>
+                    <include reference="veQ-tO-b0R"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="293" y="349"/>
+        </view>
+    </objects>
+</document>
